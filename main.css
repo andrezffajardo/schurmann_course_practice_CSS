@@ -1,4 +1,11 @@
 body {
-  background-color: #dddddd;
+  background-color: #dedede;
+}
+
+#parrafo {
   color: #ff0000;
+}
+
+.etiqueta {
+  color: #00aa00;
 }
