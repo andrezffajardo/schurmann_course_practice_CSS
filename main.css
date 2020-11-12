@@ -2,10 +2,7 @@ body {
   background-color: #dedede;
 }
 
-#parrafo {
-  color: #ff0000;
-}
-
-.etiqueta {
-  color: #00aa00;
+.caja {
+  margin: 8px;
+  background-color: #ff0;
 }
